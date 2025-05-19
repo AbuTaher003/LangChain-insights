@@ -1,3 +1,25 @@
+## 📚 Notes and Code Resources
+
+Welcome! Here are the key resources to help you understand and use this project:
+
+- **📝 Detailed Notes:**  
+  Find my handwritten and typed notes here on [Google Drive]().
+
+- **💻 Complete Code:**  
+  All the tutorial source code is hosted in this GitHub repository. You can explore or download it from [GitHub Code Repository]().
+
+---
+
+> Feel free to use these resources to follow along, learn, or contribute!
+
+
+
+---
+
+
+
+
+
 ##  LangChain: Difference Between `LLM` and `ChatModel`
 
 | Feature / Aspect           | `LLM` (Large Language Model)                                                                 | `ChatModel` (Chat-based Model)                                                             |
