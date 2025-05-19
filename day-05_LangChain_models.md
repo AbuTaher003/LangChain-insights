@@ -3,10 +3,10 @@
 Welcome! Here are the key resources to help you understand and use this project:
 
 - **📝 Detailed Notes:**  
-  Find my handwritten and typed notes here on [Google Drive]().
+  Find my handwritten and typed notes here on [Notes]().
 
 - **💻 Complete Code:**  
-  All the tutorial source code is hosted in this GitHub repository. You can explore or download it from [GitHub Code Repository]().
+  All the tutorial source code is hosted in this GitHub repository. You can explore or download it from [Codes]().
 
 ---
 
